@@ -1,1 +1,1 @@
-Filer for websiden digital1.no
+Lars lærer hvordan GitHub funker
